@@ -24,11 +24,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh642&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh642&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarsh642&theme=radical)
-
----
-
 ⭐ *Always learning, always building!*  
